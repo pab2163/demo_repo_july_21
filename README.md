@@ -1,2 +1,3 @@
-# demo_repo_july_21
-practice github repository
+# This is a demo repository
+
+we will use it to learn about `Github`
